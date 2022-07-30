@@ -188,3 +188,7 @@ footer{
 .text-stuff{
     margin-right: 3rem;
 }
+
+footer a{
+    text-decoration: none;
+}
